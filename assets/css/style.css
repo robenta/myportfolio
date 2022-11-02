@@ -536,16 +536,11 @@ section {
 }
 .about .myskills ul li{
   color: #DAA520;
-  font-size: 0px;
-  margin-bottom: 30px;
+  margin-bottom: 45px !important;
 }
 .about .myskills ul .fa-arrow-right{
   color: #999999 !important;
   font-size: 25px !important;
-}
-
-.about .myskills ul .bi-dash-lg{
-  color: #999999 !important;
 }
 
 
