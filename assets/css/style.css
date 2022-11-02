@@ -7,6 +7,10 @@ body {
   font-family: "Open Sans", sans-serif;
   background-color: black !important;
 }
+a{
+  text-decoration: none !important;
+  color: white;
+}
 .hero-container h2{
   font-size: 20px !important;
 }
@@ -658,6 +662,10 @@ section {
   font-size: 16px;
   font-weight: 800;
   text-align: center;
+  text-decoration: none;
+}
+.imagetext a:hover{
+  color: white;
 }
 
 
@@ -721,13 +729,16 @@ section {
   border-radius: 50px;
   border: 1px solid #dde1e4;
 }
+.emailbox a {
+  text-decoration: none !important;
+}
 .contact .social-links a:hover {
   color: white;
   border-color: #DAA520;
   background: #DAA520;
 }
 .contact .php-email-form {
-  padding: 23px;
+  padding: 22.5px;
   border: 1px solid whitesmoke;  
 }
 .contact .php-email-form .validate {
