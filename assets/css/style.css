@@ -539,6 +539,11 @@ section {
   font-size: 0px;
   margin-bottom: 30px;
 }
+.about .myskills ul .fa-arrow-right{
+  color: #999999 !important;
+  font-size: 25px !important;
+}
+
 .about .myskills ul .bi-dash-lg{
   color: #999999 !important;
 }
@@ -915,7 +920,7 @@ section {
   background: rgba(0, 0, 0, 0.80);
 }
 .footer2 h3 {
-  font-size: 36px;
+  font-size: 33px;
   font-weight: 700;
   color: #fff;
   position: relative;
@@ -925,7 +930,12 @@ section {
   margin-bottom: 55px;
 }
 .footer2 p {
-  font-size: 25px;
+  font-size: 22px;
+  padding: 0;
+  margin: 0 0 40px 0;
+}
+.footer2 .mynumber {
+  font-size: 15px;
   padding: 0;
   margin: 0 0 40px 0;
 }
@@ -969,7 +979,6 @@ section {
   }
   .footer2 .container {
     position: relative;
-    height: 80vh;
   }
 }
 
